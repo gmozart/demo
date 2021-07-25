@@ -19,19 +19,16 @@ public class StudentConfig {
         return args -> {
 
                     Student mariam = new Student(
-                    "Mariam",
-                    "mariam.jamal@gmail.com",
-                    LocalDate.of(2000,Month.JANUARY,5)
-
+                    "marta",
+                    "mar.ta@gmail.com",
+                    LocalDate.of(1968,Month.JANUARY,5)
 
                     );
 
                     Student alex = new Student(
-                    "Alex",
-                    "alex.veltris@gmail.com",
-                    LocalDate.of(2001,Month.FEBRUARY,27)
-
-
+                    "teste",
+                    "te.este@gmail.com",
+                    LocalDate.of(1991,Month.FEBRUARY,27)
 
             );
 
